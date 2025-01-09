@@ -12,7 +12,7 @@ const Hero = () => {
             </span>
           </Chip>
           <h1 className=" text-5xl md:text-6xl lg:text-7xl font-bold py-4 ">
-            <span className="">Next-Generation </span>
+            <span className="">Next-Gen </span>
             <span className="text-primary-500 mb-2">Crypto </span>
             <span className=" bg-gradient-to-r from-blue-500 to-pink-500 bg-clip-text text-transparent">
               Payments
