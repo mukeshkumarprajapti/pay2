@@ -31,7 +31,10 @@ const Navbar = (props: HeaderProps) => {
           <div className="hidden lg:flex justify-between ">
             <div className="flex justify-center">
               <Menu
-                
+                     classNames={{
+                      popover:
+                        "bg-[#0C111C]",
+                    }}
                 trigger={
                   <Button
                     className="text-md font-semibold text-white"
@@ -49,7 +52,10 @@ const Navbar = (props: HeaderProps) => {
             </div>
             <div className="flex justify-center">
               <Menu
-                
+                classNames={{
+          popover:
+            "bg-[#0C111C]",
+        }}
                 trigger={
                   <Button
                     className="text-md font-semibold text-white"
