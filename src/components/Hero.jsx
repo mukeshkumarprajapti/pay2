@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="basis-1/2">
           <Chip variant="flat" color="primary">
             <span className="font-semibold">
-              Trusted by 1,000+ businesses worldwide
+              Trusted by 10,000+ businesses worldwide
             </span>
           </Chip>
           <h1 className=" text-5xl md:text-6xl lg:text-7xl font-bold py-4 ">
